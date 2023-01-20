@@ -1,0 +1,18 @@
+{
+  "name": "5.10_task_toolkit",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@reduxjs/toolkit": "^1.9.1",
+    "node-fetch": "^2.6.7",
+    "react-redux": "^8.0.5",
+    "redux-logger": "^3.0.6"
+  }
+}
